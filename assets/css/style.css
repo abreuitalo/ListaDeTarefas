@@ -135,6 +135,10 @@
     cursor: pointer;
   }
 
+  .btn-adicionar:hover{
+    background: #0053A2;
+  }
+
   li {
     display: flex;
     color: #fff;
@@ -151,5 +155,10 @@
     cursor: pointer;
     padding: 0.2rem;
     background: #111;
+  }
+
+  .apagar:hover {
+    background: #fff;
+    box-shadow: 0 0 3px 3px #F92F60;
   }
 }
