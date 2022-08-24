@@ -1,0 +1,139 @@
+@media (max-width: 600px) {
+  * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  body {
+    background: #07080C;
+  }
+
+  .topo-hora {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+  }
+  
+  /* main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
+
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: rgb(35, 35, 35);
+    padding: 4%;
+  }
+
+  .input-texto {
+    background: #07080C;
+    color: #fff;
+    padding: 2.5%;
+    text-align: center;
+    margin: 0 10px 0 5em;
+    border-radius: 20px;
+  }
+
+  .input-texto:focus{
+    outline: none;
+  }
+
+  .btn-adicionar {
+    color: #fff;
+    background: #07080C;
+    padding: 2.5%;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  li {
+    display: flex;
+    color: #fff;
+    font-weight: 600;
+    margin: 1em 5px;
+    list-style-type: none;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    background-color: #0053A2;
+    padding: 0.3em;
+  }
+
+  .apagar {
+    cursor: pointer;
+    padding: 0.2rem;
+    background: #111;
+  }
+}
+
+
+@media (min-width: 601px) {
+  * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+  
+  body {
+    background: #07080C;
+  }
+
+  .topo-hora {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+  }
+
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    background: rgb(35, 35, 35);
+    padding: 4%;
+  }
+
+  
+  .input-texto {
+    background: #07080C;
+    color: #fff;
+    padding: 2.5%;
+    text-align: center;
+    margin: 0 10px 0 5em;
+    border-radius: 20px;
+  }
+
+  .input-texto:focus{
+    outline: none;
+  }
+
+  .btn-adicionar {
+    color: #fff;
+    background: #07080C;
+    padding: 2.5%;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  li {
+    display: flex;
+    color: #fff;
+    font-weight: 600;
+    margin: 1em 5px;
+    list-style-type: none;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    background-color: #0053A2;
+    padding: 0.3em;
+  }
+
+  .apagar {
+    cursor: pointer;
+    padding: 0.2rem;
+    background: #111;
+  }
+}
