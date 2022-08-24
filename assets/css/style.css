@@ -30,13 +30,18 @@
     background: rgb(35, 35, 35);
     padding: 4%;
   }
+  
+  .content {
+    display: flex;
+    justify-content: center;
+  }
 
   .input-texto {
     background: #07080C;
     color: #fff;
     padding: 2.5%;
+    margin: 0 0.5em;
     text-align: center;
-    margin: 0 10px 0 5em;
     border-radius: 20px;
   }
 
@@ -50,6 +55,11 @@
     padding: 2.5%;
     border-radius: 20px;
     cursor: pointer;
+    transition: all .4s ease-in-out;
+  }
+
+  .btn-adicionar:hover{
+    background: #0053A2;
   }
 
   li {
@@ -68,6 +78,12 @@
     cursor: pointer;
     padding: 0.2rem;
     background: #111;
+    transition: all .2s ease-in-out;
+  }
+
+  .apagar:hover {
+    background: #fff;
+    box-shadow: 0 0 3px 3px #F92F60;
   }
 }
 
