@@ -2,9 +2,7 @@
 
 
 
-- Organizador de tarefas
-- Task Organizer
-
+- Organize seus afazeres nesta lista de tarefas!
 
 
 Link da lista de tarefas: https://organizzer.netlify.app/
