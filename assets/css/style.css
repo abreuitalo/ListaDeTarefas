@@ -29,6 +29,7 @@
     margin: 5em 1em;
     background: rgb(35, 35, 35);
     padding: 4%;
+    border-radius: 10px;
   }
   
   .content {
@@ -96,7 +97,7 @@
   }
   
   body {
-    background: #07080C;
+    background: #8924F5;
   }
 
   .topo-hora {
