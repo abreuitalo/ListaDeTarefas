@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto lista de tarefas" src=".github/capa.jpg" width="100%">
+  <img alt="projeto lista de tarefas" src="./assets/capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
